@@ -16,3 +16,12 @@ Our team worked on the Webb Origami Design Challenge to "create origami artwork 
 
 This web site provides instruction videos, circuit diagrams, software setup guide and ready-to-run programs. You can immediately learn how to reproduce our origami crafts and IoT telescope models. We hope you find this project interesting and useful and then learn something about JWST. JWST has not been launched yet. Let's get to know about it and watch its launch and deployment at December 25!
 -->
+
+- [Official team web page](https://2022.spaceappschallenge.org/challenges/2022-challenges/creative-data-display/teams/earth-wind-flare/) at SpaceAppsChallenge.org
+- [7-page project summary]()
+    - [PDF version](): Demo videos do not work in this PDF version.
+- [Oral presentation video]() for Boston local judging
+- [Presentation slides]() for Boston local judging
+    - [PDF version](): Demo videos do not work in this PDF version.
+- [Hardware setup](hardware/): Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
+- [Software code](code/): Raspberry Pi OS setup, required software library and online accounts, Python code
