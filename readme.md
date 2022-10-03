@@ -21,8 +21,8 @@ This web site provides instruction videos, circuit diagrams, software setup guid
 - 7-page project summary
     - PDF version: Demo videos do not work in this PDF version.
 - Oral presentation video for Boston local judging
-- Presentation slides for Boston local judging
-    - PDF version: Demo videos do not work in this PDF version.
+- [Oral Presentation slides](https://docs.google.com/presentation/d/17I9ZgF2RXYX0MeCR6q1414WrXGxQ1NQp2aaNcb6b71I/) at Boston local judging
+    - [PDF version](./docs/boston-local-presentation.pdf): Demo videos do not work in this PDF version.
 - Hardware setup: Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
 - [Software code](./code/): Raspberry Pi OS setup, required software library and online accounts, Python code
 
