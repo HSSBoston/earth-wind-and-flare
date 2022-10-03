@@ -2,12 +2,12 @@
   <img src="images/team-image.jpg" width="750" />
 </p>
 
-We are a team of 4 students who participated in the 2022 NASA Space Apps Challenge:
+We are a team of 4 students who participated in the [2022 NASA Space Apps Challenge](https://2022.spaceappschallenge.org/):
 
 - Hanna Suzuki
 - Yuto Yashiro
-- Akari Takekawa
 - Kurumi Kamio
+- Akari Takekawa
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
@@ -25,3 +25,12 @@ This web site provides instruction videos, circuit diagrams, software setup guid
     - PDF version: Demo videos do not work in this PDF version.
 - Hardware setup: Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
 - [Software code](./code/): Raspberry Pi OS setup, required software library and online accounts, Python code
+
+
+
+### Short Project Summary
+
+We built an Internet of Things (IoT) device that publicizes space weather and its impacts on Earth in an interactive and artistic way. Our device's key elements include (1) an LED matrix board to show space weather (such as solar wind speed and geomagnetic disturbance) as well as earth weather, (2) a variety of international data sources (such as NASA, NOAA, Kakioka magnetic observatory in Japan and German Research Centre for Geosciences), (3) visual and acoustic effects in data display, such as a mapping of geomagnetic disturbance (Kp index) to musical elements. Our ultimate goal is to help raise public awareness of space weather.
+
+
+### Detailed Project Summary
