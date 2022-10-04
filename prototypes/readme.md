@@ -14,15 +14,17 @@ We made 4 prototypes in this project.
 
 ### Prototype 2
 
-<img src="../images/p3-eweather.jpg" width="400">
+<img src="../images/p2.jpg" width="500">
 
-<img src="../images/p3-sweather.jpg" width="400">
+<img src="" width="">
 
 ### Prototype 3
 
-<img src="../images/p3-eweather.jpg" width="">
 
-<img src="" width="">
+
+<img src="../images/p3-eweather.jpg" width="400">
+
+<img src="../images/p3-sweather.jpg" width="400">
 
 ### Prototype 4
 
