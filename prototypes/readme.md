@@ -16,7 +16,7 @@ We made 4 prototypes in this project.
 
 <img src="../images/p2.jpg" width="500">
 
-<img src="" width="">
+
 
 ### Prototype 3
 
@@ -33,5 +33,3 @@ We made 4 prototypes in this project.
 <img src="../images/p4-decoration1.jpg" width="500">
 
 <img src="../images/p4-decoration2.jpg" width="300">
-
-<img src="" width="">
