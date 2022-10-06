@@ -45,10 +45,10 @@ Although space weather has significant impacts on our life, most people don’t 
 We are a group of 4 students who try to approach this issue by building an LED panel that shows both earth and space weather with visual and acoustic effects. It is designed to help panel viewers know and interpret space weather as they do for earth weather. It can also help them get better informed and better prepared. Ultimately, we want to help raise public awareness of space weather and its impacts on Earth.
 
 
-We have diverse skills and experience: coding, Raspberry Pi hacks, music (piano and music theory) and crafting. So, we decided to use them in our project. We built an LED panel that is made up of Raspberry Pi (credit card sized computer) and a 64 pixel by 64 pixel LED matrix board. Its upper half shows earth weather, and its bottom half shows space weather. There are many LED panel products that can show earth weather on market, but we have not seen any panel that can show both earth and space weather .
+We have diverse skills and experience: coding, Raspberry Pi hacks, music (piano and music theory) and crafting. So, we decided to use them in our project. We built an LED panel that is made up of Raspberry Pi (credit card sized computer) and a 64-pixel by 64-pixel LED matrix board. Its upper half shows earth weather, and its bottom half shows space weather. There are many LED panel products that can show earth weather on market, but we have not seen any panel that can show both earth and space weather .
 
 
-We wrote Python programs for Raspberry Pi to download earth and space weather data and display that on the LED panel. Since we are an international team (three members in the Greater Boston area in MA and one in Japan), our programs use a variety of international data sources and support multiple units such as Fahrenheit, Celcius, miles and kilometers:
+We wrote Python programs for Raspberry Pi to download earth and space weather data and display that on the LED panel. Since we are an international team (three members in the Greater Boston area in MA and one in Japan), our programs use a variety of international data sources and support multiple units such as Fahrenheit, Celsius, miles and kilometers:
 
 - Earth weather data:
   - Current temperature (F/C)
@@ -63,10 +63,16 @@ We wrote Python programs for Raspberry Pi to download earth and space weather da
   - Solar wind speed (MPH/KPH):
     - Data from NASA’s Advanced Composition Explorer (ACE) satellite
     - Downloaded this data from NOAA
-  - Next perihelion day for Parker Solar Probe (PSP):
+  - Next encounter day (perihelion day) of Parker Solar Probe (PSP):
     - Download this data from Johns Hopkins University Applied Physics Laboratory's Web site
 
+Our LED panel has a few visual, interactive and acoustic features to attract as many people as possible and deliver them space weather information. First, our panel can replay videos with GIF animation files. We downloaded image data of the solar K-corona that Parker Solar Probe took and configured the panel to display a few videos that are produced from those image data.
+
+Weather icons are another visual effect that we implemented. Our panel shows different icons according to the current earth weather and space weather (geomagnetic disturbance in Kp-index). K- and Kp-index values are colored on the panel based on the NOAA scale.
+
+
 Our LED panel is also motion-activated. We connected a motion sensor to Raspberry Pi so that the panel turns on when the sensor detects nearby motion and it automatically turns off when no motion is detected for a while.
+
 
 For its acoustic effects, our Raspberry Pi Python program produces a piece of “music” with downloaded Kp-index values (planetary geomagnetic disturbance data) and plays it with a Bluetooth speaker. In Geosciences, Kp data are displayed graphically as an aid for scientists, and the graphical notation looks like a musical score. It is often called "Bartels musical diagrams," after the inventor of Kp-index, Julius Bartels. This motivated us to map a sequence of Kp values to musical elements, considering 3 properties of sound: pitch, duration and intensity. We also used the concepts of triads (chords), key signatures and musical scales in the mapping. LED panel viewers can listen to the "music of solar wind" and feel how solar wind sing. They can also vary it into different vibes by changing key signatures/scales.
 
