@@ -4,9 +4,16 @@ We made 4 prototypes in this project.
 
 ### Prototype 1
 
-<img src="../images/p1-wall.jpg" width="350">
+This is a wall-mounted LED panel. It is decorated with origami crafts. 
 
+<img src="../images/p1-wall.jpg" width="350">
 <img src="../images/p1-datadisplay.jpg" width="500">
+
+
+
+
+
+
 
 <img src="../images/p1-origami.jpg" width="500">
 
