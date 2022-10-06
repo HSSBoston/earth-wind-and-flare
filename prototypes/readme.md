@@ -16,7 +16,7 @@ This prototype can replay GIF animation videos after showing earth and space wea
 <a href="https://youtu.be/fdgn-TWUL5k"><img src="../images/p1-video.jpg" width="500"></a>
 </p>
 
-To decorate this we made origami crafts that model the Sun, clouds and lightning.
+To decorate this prototype, we made origami crafts that model the Sun, clouds and lightning.
 
 <p align="center">
 <img src="../images/p1-origami.jpg" width="500">
@@ -52,7 +52,7 @@ Our Python program implements imperial and metric units, and it can switch one u
 - Fahrenheit for temperature and miles per hour (MPH) for solar sind speed.
 - Celsius for temperature and Kilometers per hour (KPH) for solar wind speed.
 
-Since this prototype was built in Japan, it shows a K-index value that a Japanese geomagnetic observatory measured.
+Since this prototype was built in Japan, it shows the K-index value that a Japanese geomagnetic observatory measured.
 
 Watch the following demonstration video to see how this prototype works.
 
@@ -63,16 +63,22 @@ Watch the following demonstration video to see how this prototype works.
 
 ### Prototype 4
 
-This prototype
+This prototype connects Raspberry Pi with a 64x64 LED matrix board and a Bluetooth speaker. Our Python program produces a piece of “music” with downloaded Kp-index values (planetary geomagnetic disturbance data) and plays it with a speaker. See [this page](../kp-music) for more details about how to map Kp-index values to musical elements. 
 
-producing the "music of solar wind"
-
-a 64x64 LED matrix board
-
-
-
+<p align="center">
 <img src="../images/p4.jpg" width="500">
+</p>
 
+See the following demonstration video to hear how solar wind sings.
+
+<p align="center">
+<a href="https://youtu.be/4N0SlPaT1-U"><img src="../images/p4-video.jpg" width="500"></a>
+</p>
+
+We also decorated this prototype with [Zome](https://www.zometool.com).
+
+<p align="center">
 <img src="../images/p4-decoration1.jpg" width="500">
 
 <img src="../images/p4-decoration2.jpg" width="300">
+</p>
