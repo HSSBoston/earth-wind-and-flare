@@ -24,7 +24,7 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [Oral presentation video](https://youtu.be/_Xmb9laCBRE) for Boston local judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/17I9ZgF2RXYX0MeCR6q1414WrXGxQ1NQp2aaNcb6b71I/) at Boston local judging
     - [PDF version](./docs/boston-local-presentation.pdf): Demo videos do not work in this PDF version.
-- [LED panel display](./display/): Displayed data, colors and icons
+- [Data display](./display/): Data, colors and icons displayed on our LED panel
 - [LED panel prototypes](./prototypes/): Pictures and videos
 - [Music of solar wind (Kp music)](./kp-music/)
 - Hardware setup: Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
@@ -70,9 +70,7 @@ Our LED panel has a few visual, interactive and acoustic features to attract as 
 
 Weather icons are another visual effect that we implemented. Our panel shows different icons according to the current earth weather and space weather (geomagnetic disturbance in Kp-index). K- and Kp-index values are colored on the panel based on the NOAA scale.
 
-
 Our LED panel is also motion-activated. We connected a motion sensor to Raspberry Pi so that the panel turns on when the sensor detects nearby motion and it automatically turns off when no motion is detected for a while.
-
 
 For its acoustic effects, our Raspberry Pi Python program produces a piece of “music” with downloaded Kp-index values (planetary geomagnetic disturbance data) and plays it with a Bluetooth speaker. In Geosciences, Kp data are displayed graphically as an aid for scientists, and the graphical notation looks like a musical score. It is often called "Bartels musical diagrams," after the inventor of Kp-index, Julius Bartels. This motivated us to map a sequence of Kp values to musical elements, considering 3 properties of sound: pitch, duration and intensity. We also used the concepts of triads (chords), key signatures and musical scales in the mapping. LED panel viewers can listen to the "music of solar wind" and feel how solar wind sing. They can also vary it into different vibes by changing key signatures/scales.
 

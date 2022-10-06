@@ -33,14 +33,39 @@ Also, our program downloads the [current weather condition](https://openweatherm
 
 ### Space Weather Data
 
-| Icon      | Weather |
-| :----:      | :---      |
-| <img src="../code/spacewheter_0_green.png" width="75"> | clear sky|
-| <img src="../code/spacewheter_1_yellow.png" width="75"> | Few clouds |
-| <img src="../code/spacewheter_2_lightorange.png" width="75"> | Scattered clouds |
-| <img src="../code/spacewheter_3_darkorange.png" width="75"> | Broken clouds |
-| <img src="../code/spacewheter_4_red.png" width="75"> | Shower rain |
-| <img src="../code/spacewheter_5_darkred.png" width="75"> | Rain |
+Our Python program downloads the current space weather data from a variety of international sources and displays them at the bottom right portion of the panel.
+
+- Geomagnetic disturbance (K-index) in the US:
+  - Downloaded from [NOAA Space Weather Prediction Center's FTP server](ftp://ftp.swpc.noaa.gov/pub/lists/geomag/AK.txt)
+- Geomagnetic disturbance (K-index) in Japan:
+ - Downloaded from the [Web site of Kakioka Geomagnetic Observatory](https://www.kakioka-jma.go.jp/)
+- Planetary geomagnetic disturbance (Kp-index):
+ - Downloaded from [NOAA Space Weather Prediction Center's FTP server](ftp://ftp.swpc.noaa.gov/pub/lists/geomag/AK.txt)
+ - Downloaded from the [Web site of German Research Center for Geosciences](https://www-app3.gfz-potsdam.de/kp_index/Kp_ap_nowcast.txt)
+- Solar wind speed:
+ - Downloaded from [NOAA Space Weather Prediction Center's FTP server](ftp://ftp.swpc.noaa.gov/pub/lists/ace2/noaaSolarWind_ace_swepam_1h.txt). This data is what NASA’s Advanced Composition Explorer (ACE) satellite has measured.
+- Next encounter day (perihelion day) of Parker Solar Probe (PSP):
+ - Downloaded from the [Web site of Johns Hopkins University Applied Physics Laboratory](http://parkersolarprobe.jhuapl.edu/The-Mission/index.php#Timeline)
+
+K- and Kp-index values are colored based on the [NOAA scape weather scale](https://www.swpc.noaa.gov/noaa-scales-explanation):
+
+| Planetary geomagnetic disturbance (Kp-index)| NOAA Scale| Color|
+| :---    | :--- | :--- |
+| Kp <= 4 | 0 | Green |
+| Kp == 5 | 1 | Yellow |
+| Kp == 6 | 2 | Dark yellow |
+| Kp == 7 | 3 | Orange |
+| Kp == 8 | 4 | Severe |
+| Kp == 9 | 5 | Extreme |
 
 
-space weather (geomagnetic disturbance in Kp-index). K- and Kp-index values are colored on the panel based on the NOAA scale.
+Also, our program displays an icon for the current Kp-index value at the bottom left portion of the panel. It displays one of the following icons:
+
+| Planetary geomagnetic disturbance (Kp-index) | NOAA Scale| Icon|
+| :---      | :---      | :----: |
+| Kp <= 4 | 0 | <img src="../code/spacewheter_0_green.png" width="75"> |
+| Kp == 5 | 1 |<img src="../code/spacewheter_1_yellow.png" width="75"> |
+| Kp == 6 | 2 | <img src="../code/spacewheter_2_lightorange.png" width="75"> |
+| Kp == 7 | 3 | <img src="../code/spacewheter_3_darkorange.png" width="75"> |
+| Kp == 8 | 4 | <img src="../code/spacewheter_4_red.png" width="75"> |
+| Kp == 9 | 5 | <img src="../code/spacewheter_5_darkred.png" width="75"> |
