@@ -24,9 +24,9 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [Oral presentation video](https://youtu.be/_Xmb9laCBRE) for Boston local judging
 - [Oral Presentation slides](https://docs.google.com/presentation/d/17I9ZgF2RXYX0MeCR6q1414WrXGxQ1NQp2aaNcb6b71I/) at Boston local judging
     - [PDF version](./docs/boston-local-presentation.pdf): Demo videos do not work in this PDF version.
-- [LED panel display](./display): Displayed data, colors and icons
-- [LED panel prototypes](./prototypes): Pictures and videos
-- [Music of solar wind (Kp music)]
+- [LED panel display](./display/): Displayed data, colors and icons
+- [LED panel prototypes](./prototypes/): Pictures and videos
+- [Music of solar wind (Kp music)](./kp-music/)
 - Hardware setup: Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
 - Software code: Raspberry Pi OS setup, required software library and online service accounts, and [Python code](./code/).
 
