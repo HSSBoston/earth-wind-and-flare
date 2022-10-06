@@ -12,10 +12,10 @@ This motivated us to map a sequence of Kp values to musical elements. Our curren
 
 - Mapping each Kp value to one eighth the duration of a whole note.
 - Mapping Kp=0+ to the first note of a selected scale in the middle octave. Higher Kp values are mapped to remaining notes in the scale in order. Move to a higher octave if all available notes have been used in the current octave. This way, higher Kp values are mapped to higher pitch levels.
- - For example, if the C major scale is selected, Kp=0+ is mapped to the C4 note. Kp=1-, 1, 1+, 2-, 2 and 2+ are mapped to D4, E4, F4, G4, A4, and B4. Kp=3- is mapped to C5.
+   - For example, if the C major scale is selected, Kp=0+ is mapped to the C4 note. Kp=1-, 1, 1+, 2-, 2 and 2+ are mapped to D4, E4, F4, G4, A4, and B4. Kp=3- is mapped to C5.
 - Expanding the duration of the rest/note if the same Kp value repeats.
- - For example, if Kp=0 repeats twice, the two values are mapped to a quarter rest. If Kp=0 repeats 4 times, the four values are mapped to a half rest.
- - If Kp=1- repeats twice, the two values are mapped to a quarter note for D4.
+   - For example, if Kp=0 repeats twice, the two values are mapped to a quarter rest. If Kp=0 repeats 4 times, the four values are mapped to a half rest.
+   - If Kp=1- repeats twice, the two values are mapped to a quarter note for D4.
 - Using higher intensity if Kp >= 5.
 
 Our algorithm can use any scale. Different scales can give different feels and vibes to the music of solar wind. For example, C major makes it sound happy, C blues scale makes it jazzy, and C minor makes it feel sad.
