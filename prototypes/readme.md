@@ -10,16 +10,16 @@ This prototype is wall-mounted. A 64x64 LED matrix board and Raspberry Pi are at
 <img src="../images/p1-wall.jpg" width="350">
 </p>
 
-This prototype can replays GIF animation videos after showing earth and space weather information. See the following demonstration video.
+This prototype can replay GIF animation videos after showing earth and space weather information. See the following demonstration video.
 
 <p align="center">
-<a href="https://youtu.be/fdgn-TWUL5k"><img src="../images/p1-video.jpg" width="400"></a>
+<a href="https://youtu.be/fdgn-TWUL5k"><img src="../images/p1-video.jpg" width="500"></a>
 </p>
 
 This prototype is decorated with origami crafts that model the Sun, clouds and lightning.
 
 <p align="center">
-<img src="../images/p1-origami.jpg" width="400">
+<img src="../images/p1-origami.jpg" width="500">
 </p>
 
 ### Prototype 2
@@ -27,13 +27,13 @@ This prototype is decorated with origami crafts that model the Sun, clouds and l
 This prototype is motion-activated. Raspberry Pi is connected with a 64x64 LED matrix board and a motion sensor (Passive InfaRed sensor: PIR sensor). It turns on the board when the sensor detects nearby motion, and turns off the board if no motion is detected for a while. This way, it can better interact with panel viewers while saving power consumption.
 
 <p align="center">
-<img src="../images/p2.jpg" width="400">
+<img src="../images/p2.jpg" width="500">
 </p>
 
 See the following demonstration video to see how this prototype works with a motion sensor.
 
 <p align="center">
-<a href="https://youtu.be/U0wvPAjHJDc"><img src="../images/p2-video.jpg" width="400"></a>
+<a href="https://youtu.be/U0wvPAjHJDc"><img src="../images/p2-video.jpg" width="500"></a>
 </p>
 
 
