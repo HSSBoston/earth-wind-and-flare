@@ -16,7 +16,7 @@ This prototype can replay GIF animation videos after showing earth and space wea
 <a href="https://youtu.be/fdgn-TWUL5k"><img src="../images/p1-video.jpg" width="500"></a>
 </p>
 
-This prototype is decorated with origami crafts that model the Sun, clouds and lightning.
+To decorate this we made origami crafts that model the Sun, clouds and lightning.
 
 <p align="center">
 <img src="../images/p1-origami.jpg" width="500">
@@ -30,7 +30,7 @@ This prototype is motion-activated. Raspberry Pi is connected with a 64x64 LED m
 <img src="../images/p2.jpg" width="500">
 </p>
 
-See the following demonstration video to see how this prototype works with a motion sensor.
+Watch the following demonstration video to see how this prototype works with a motion sensor.
 
 <p align="center">
 <a href="https://youtu.be/U0wvPAjHJDc"><img src="../images/p2-video.jpg" width="500"></a>
@@ -47,12 +47,18 @@ This prototype uses a 64x32 (rectangular) LED matrix board. Our Python program c
 <img src="../images/p3-sweather.jpg" width="400">
 </p>
 
-See the following demonstration video to see how this prototype works with a motion sensor.
+Our Python program implements imperial and metric units, and it can switch one unit system to another:
+
+- Fahrenheit for temperature and miles per hour (MPH) for solar sind speed.
+- Celsius for temperature and Kilometers per hour (KPH) for solar wind speed.
+
+Since this prototype was built in Japan, it shows a K-index value that a Japanese geomagnetic observatory measured.
+
+Watch the following demonstration video to see how this prototype works.
 
 <p align="center">
-<a href="https://youtu.be/U0wvPAjHJDc"><img src="../images/p2-video.jpg" width="400"></a>
+<a href="https://youtu.be/jJMIJQfBOQI"><img src="../images/p3-video.jpg" width="500"></a>
 </p>
-
 
 
 ### Prototype 4
