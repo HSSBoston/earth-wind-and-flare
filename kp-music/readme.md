@@ -21,6 +21,6 @@ This motivated us to map a sequence of Kp values to musical elements. Our curren
 
 Our algorithm can use any scale. Different scales can give different feels and vibes to the music of solar wind. For example, C major makes it sound happy, C blues scale makes it jazzy, and C minor makes it feel sad.
 
-Our algorithm can also map each Kp value to a chord. It follows the above mapping policy and replaces each note with a triad chord whose root is the note. For example, Kp=1- is mapped to a triad of [C4,E4,G4]. Kp=1 and Kp=1+ are mapped to [D4,F4,A4] and [E4,G4,B4]. Chords can give depth to the music of solar wind.
+Our algorithm can also map each Kp value to a chord. It follows the above mapping rule and replaces each note with a triad chord whose root is that note. For example, Kp=1- is mapped to a triad of [C4,E4,G4]. Kp=1 and Kp=1+ are mapped to [D4,F4,A4] and [E4,G4,B4]. Chords can give depth to the music of solar wind.
 
-We use 3 out of 4 properties of sound, pitch, duration and intensity, in our algorithm. We are planning to use the remaining property, timbre, to make the music of solar wind more musical. Another plan is to use the properties of music, such as rhythm, in our algorithm.
+We use 3 out of 4 properties of sound (pitch, duration and intensity) in our algorithm. We are planning to use the remaining property, timbre, to make the music of solar wind more musical. Another plan is to use a few properties of music, such as rhythm, in our algorithm.
