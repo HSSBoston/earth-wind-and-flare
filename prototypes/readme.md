@@ -1,6 +1,6 @@
 ## LED Panel Prototypes
 
-We made 5 prototypes in this project.
+We made 4 prototypes in this project.
 
 ### Prototype 1
 
@@ -40,7 +40,7 @@ Watch the following demonstration video to see how this prototype works with a m
 
 ### Prototype 3
 
-This prototype uses a 64x32 (rectangular) LED matrix board. Our Python program can run for 64x32 boards as well as 64x64 boards. Since the 64x32 board size is too small to show both earth and space weather, it displays the two weather information in turn.
+This prototype uses a 64x32 (rectangular) LED matrix board. Our Python program can run for a 64x32 board as well as a 64x64 board. Since the 64x32 board size is too small to show both earth and space weather, it displays the two weather information in turn.
 
 <p align="center">
 <img src="../images/p3-eweather.jpg" width="400">
@@ -52,7 +52,7 @@ Our Python program implements imperial and metric units, and it can switch one u
 - Fahrenheit for temperature and miles per hour (MPH) for solar sind speed.
 - Celsius for temperature and Kilometers per hour (KPH) for solar wind speed.
 
-Since this prototype was built in Japan, it shows the K-index value that a Japanese geomagnetic observatory measured.
+Since this prototype was built in Japan, it shows the K-index value that a Japanese geomagnetic observatory measures.
 
 Watch the following demonstration video to see how this prototype works.
 
@@ -63,7 +63,7 @@ Watch the following demonstration video to see how this prototype works.
 
 ### Prototype 4
 
-This prototype connects Raspberry Pi with a 64x64 LED matrix board and a Bluetooth speaker. Our Python program produces a piece of “music” with downloaded Kp-index values (planetary geomagnetic disturbance data) and plays it with a speaker. See [this page](../kp-music) for more details about how to map Kp-index values to musical elements. 
+This prototype connects Raspberry Pi to a 64x64 LED matrix board and a Bluetooth speaker. Our Python program produces a piece of “music” with downloaded Kp-index values (planetary geomagnetic disturbance data) and plays it with the speaker. See [this page](../kp-music) for more details about how to map Kp-index values to musical elements.
 
 <p align="center">
 <img src="../images/p4.jpg" width="500">
