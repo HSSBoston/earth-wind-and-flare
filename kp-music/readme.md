@@ -24,3 +24,9 @@ Our algorithm can use any scale. Different scales can give different feels and v
 Our algorithm can also map each Kp value to a chord. It follows the above mapping rule and replaces each note with a triad chord whose root is that note. For example, Kp=1- is mapped to a triad of [C4,E4,G4]. Kp=1 and Kp=1+ are mapped to [D4,F4,A4] and [E4,G4,B4]. Chords can give depth to the music of solar wind.
 
 We use 3 out of 4 properties of sound (pitch, duration and intensity) in our algorithm. We are planning to use the remaining property, timbre, to make the music of solar wind more musical. Another plan is to use a few properties of music, such as rhythm, in our algorithm.
+
+See the following demonstration video to hear how solar wind sings!
+
+<p align="center">
+<a href="https://youtu.be/4N0SlPaT1-U"><img src="../images/p4-video.jpg" width="500"></a>
+</p>
