@@ -11,11 +11,11 @@ We are a team of 4 students who participated in the [2022 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 30 challenges for participants around the world to develop innovative solutions.
 
-We participated in the Boston local division and won the 1st place. We are excited to be be one of global nominees!
+We participated in the Boston division of Space Apps and won the **1st place** there! We are excited to be be [one of global nominees](https://2022.spaceappschallenge.org/locations/boston/teams)!
 
 Our team worked on the ["Creative Data Display with the Parker Solar Probe" challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/creative-data-display/) to "create an interactive tool to represent" data about the Sun, which the Parker Solar Probe and other spacecrafts have gathered, "in a new and inviting way that improves public knowledge and understanding of space weather." We built an LED panel that shows space weather (such as solar wind speed and geomagnetic disturbance) as well as earth weather with visual and acoustic effects. It is made up of a Raspberry Pi computer (credit card sized computer), 64-pixel by 64-pixel LED matrix board, motion sensor and Bluetooth speaker. Our ultimate goal is to help raise public awareness of space weather.
 
-This web site provides hardware and software setup guide, circuit diagrams, and ready-to-run Python programs. You can immediately learn how to reproduce our LED panel. We hope you find this project interesting and useful and then learn about something about space weather. You can even join us to spread the word and data about space weather with this LED panel! Let's also stay tuned to Parker Solar Probe's [next encounter day at December 11](https://sppgway.jhuapl.edu/encounters).
+This web site provides hardware and software setup guide, circuit diagrams, and ready-to-run Python programs. You can immediately learn how to reproduce our LED panel. We hope you find this project interesting and useful and then learn something about space weather. You can even join us to spread the word and data about space weather with this LED panel! Let's also stay tuned to Parker Solar Probe's [next encounter to the Sun at December 11](https://sppgway.jhuapl.edu/encounters).
 
 
 - [Official team web page](https://2022.spaceappschallenge.org/challenges/2022-challenges/creative-data-display/teams/earth-wind-flare/) at SpaceAppsChallenge.org
