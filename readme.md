@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/team-image.jpg" width="750" />
+  <img src="images/earth-wind-and-flare-team.png" width="750" />
 </p>
 
 We are a team of 4 students who participated in the [2022 NASA Space Apps Challenge](https://2022.spaceappschallenge.org/):
