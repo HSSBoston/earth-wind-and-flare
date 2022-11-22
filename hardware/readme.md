@@ -25,14 +25,14 @@ Flip your LED board to see its backside. See it in the following way. Pay attent
   <img src="../images/64x32.jpg" width="400" />
 </p>
 
-Your LED board has 2 connectors. Each connector has 16 (2x8) pins. You will use the left one, which is shown in red in the following picture. It may be labeled like “JIN”, “IN”or something similar. Ignore the connector on your right (in blue).
+Your LED board has 2 connectors. Each connector has 16 (2x8) pins. You will use the left one, which is shown in red in the following picture. It may be labeled like "JIN", "IN" or something similar. Ignore the connector on your right (in blue).
 
 <p align="center">
   <img src="../images/64x64-pins.jpg" width="400" />
   <img src="../images/64x32-pins.jpg" width="400" />
 </p>
 
-16 pins in the left connector are called “input pins”.
+16 pins in the left connector are called "input pins".
 Input pins have their own names.
 
 <p align="center">
@@ -45,10 +45,10 @@ Now, use the following diagram to connect input pins and GPIO pins with jumper w
   <img src="../images/gpio.jpg" width="400" />
 </p>
 
-Connect your power supply cable and screw terminal block. Then, connect LED board's power cable with the screw terminal block.
+Connect your power supply cable and screw terminal block. Then, connect your LED board's power cable with the screw terminal block. Connect the power cable to your LED board. 
 
 <p align="center">
   <img src="../images/power.jpg" width="400" />
 </p>
 
-Plug your power supply cable to an outlet, and turn on your Raspi. 
+Plug your power supply cable to an outlet, and turn on your Raspi.
