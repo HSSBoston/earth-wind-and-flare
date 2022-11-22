@@ -1,6 +1,4 @@
-# Hardware
-
-## Required Hardware
+# Required Hardware
 
 - Raspberry Pi (Raspi) Zero WH ([Adafruit](https://www.adafruit.com/product/3708), [Amazon](https://smile.amazon.com/Raspberry-Pi-Zero-WH-Pre-soldered/dp/B07B8MMD3V/))
   - You also need a Micro SD card ([Adafruit](https://www.adafruit.com/product/2693), [Amazon](https://www.amazon.com/gp/product/B073K14CVB/)) and a power supply cable ([Adafruit](https://www.adafruit.com/product/1995), [Amazon](https://smile.amazon.com/Raspberry-Power-Supply-Adapter-Charger/dp/B08523DFR4/)).
@@ -14,7 +12,7 @@
   - We used [this one](https://www.amazon.com/Sony-SRS-XB13-Waterproof-Bluetooth-SRSXB13/dp/B08ZJ6DQNY/), but any Bluetooth speaker should work.
 
 
-## Connect a LED matrix board to your Raspi
+# Connect a LED matrix board to your Raspi
 
 Make sure your Raspi is turned off. Don't connect a power cable to your LED board yet.
 
@@ -45,7 +43,7 @@ Now, use the following diagram to connect input pins and GPIO pins with jumper w
   <img src="../images/gpio.jpg" width="400" />
 </p>
 
-Connect your power supply cable and screw terminal block. Then, connect your LED board's power cable with the screw terminal block. Connect the power cable to your LED board. 
+Connect your power supply cable and screw terminal block. Then, connect your LED board's power cable with the screw terminal block. Connect the power cable to your LED board.
 
 <p align="center">
   <img src="../images/power.jpg" width="400" />

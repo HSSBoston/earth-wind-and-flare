@@ -60,4 +60,4 @@ You can see a colorful square revolve on your LED board if everything goes well.
 </p>
 
 
-## Making and Running Python Apps
+# Making and Running Python Apps
