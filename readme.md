@@ -13,6 +13,10 @@ NASA Space Apps Challenge is an annual hackathon event (or an innovation incubat
 
 We are excited and honored to be [one of 10 Global Winners](https://2021.spaceappschallenge.org/awards/), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 11 other nations' space agencies!
 
+<p align="center">
+  <img src="images/award.jpg" width="300" />
+</p>
+
 <!-- We are excited and honored to be [one of 35 Global Finalists](https://2022.spaceappschallenge.org/awards/global-finalists/), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 10 other space agencies!-->
 
 <!-- We participated in the Boston division of Space Apps and won the **1st place** there! We are excited to be be [one of global nominees](https://2022.spaceappschallenge.org/locations/boston/teams)!-->
