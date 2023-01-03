@@ -28,5 +28,5 @@ We use 3 out of 4 properties of sound (pitch, duration and intensity) in our alg
 See the following demonstration video to hear how solar wind sings!
 
 <p align="center">
-<a href="https://youtu.be/4N0SlPaT1-U"><img src="../images/p4-video.jpg" width="500"></a>
+<a href="https://youtu.be/OQ8wODVpMxo"><img src="../images/p4-video.jpg" width="500"></a>
 </p>

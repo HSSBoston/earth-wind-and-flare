@@ -11,10 +11,13 @@ We are a team of 4 students who participated in the [2022 NASA Space Apps Challe
 
 NASA Space Apps Challenge is an annual hackathon event (or an innovation incubation and civic engagement program) where NASA puts out about 20 challenges for participants around the world to develop innovative solutions.
 
-We are excited and honored to be [one of 10 Global Winners](https://2021.spaceappschallenge.org/awards/), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 11 other nations' space agencies!
+We are excited and honored to be [one of 10 Global Winners](https://youtu.be/dbun3m-B4-E), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 11 other nations' space agencies!
 
 <p align="center">
-  <img src="images/award.jpg" width="300" />
+  <a href="https://2021.spaceappschallenge.org/awards/"><img src="images/award.jpg" width="300" /></a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/dbun3m-B4-E"><img src="images/award-announcement.jpg" width="500"></a>
 </p>
 
 <!-- We are excited and honored to be [one of 35 Global Finalists](https://2022.spaceappschallenge.org/awards/global-finalists/), which were selected from 5,327 teams worldwide (31,561 participants from 162 countries) by NASA and 10 other space agencies!-->
