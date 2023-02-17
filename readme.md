@@ -40,6 +40,7 @@ This web site provides hardware and software setup guide, circuit diagrams, and 
 - [Music of solar wind (Kp music)](./kp-music/)
 - [Hardware setup](./hardware/): Required hardware, LED matrix wiring, motion sensor setup and circuit diagrams
 - [Software code](./software/): Raspberry Pi OS setup, required software library and online service accounts, and [Python code](./code/).
+- [Press coverage](./press)
 
 
 
