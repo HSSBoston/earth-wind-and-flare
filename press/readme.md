@@ -1,5 +1,7 @@
 # Press Coverage
 
+[Boston students win 2022 NASA Space Apps global championship](https://blog.adafruit.com/2023/01/05/boston-students-win-2022-nasa-space-apps-global-championship-python-raspberrypi-space-nasa/), Adafruit Blog, January 2023.
+
 [Boston Team wins the Second Annual NASA Space Apps Challenge 2022 Global Award](https://www.boston.us.emb-japan.go.jp/itpr_en/11_000001_00513.html)
 
 [NASA ISAC BOSTONのローカル優勝チームがNASA ISACグローバルハッカソンにおいて、ART & TECHNOLOGY部門賞を二年連続で受賞しました](https://www.boston.us.emb-japan.go.jp/itpr_ja/11_000001_00514.html)
